@@ -1,0 +1,12 @@
+# Site settings
+title: Hernán Aguilera
+email: contacto[at]hernanaguilera[dot]com[dot]ve
+description: > # this means to ignore newlines until "baseurl:"
+  Sitio para la publicación y documentación de mis desvarios en código fuente.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: HernanAguilera
+github_username:  HernanAguilera
+
+# Build settings
+markdown: kramdown
