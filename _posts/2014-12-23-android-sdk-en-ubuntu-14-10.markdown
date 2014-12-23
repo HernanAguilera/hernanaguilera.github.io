@@ -8,7 +8,7 @@ tags: [Android, Ubuntu]
 
 Por asunto de trabajo por estos dias estoy retomando mis practicas de programación para a plataforma [Android][android], si estas usando [Ubuntu][ubuntu] 14.10 x64 al igual que yo, aún luego de seguir la documentación oficial de Android para developers tendrás un problema al momento de correr tu aplicación.
 
-Lo que sucede es que la [SDK][sdk] necesita las librerias de 32bits, leyendo algunos webs recomiendan instalar el paquete ia32-libs el cual no se encuentra en Ubuntu 14.04.
+Lo que sucede es que la [SDK][sdk] necesita las librerias de 32bits, leyendo algunos webs recomiendan instalar el paquete ia32-libs el cual no se encuentra en Ubuntu 14.10.
 
 Luego de varios tropiezos me tope con este [articulo][articulo], el problema se resuelve en dos pasos:
 
